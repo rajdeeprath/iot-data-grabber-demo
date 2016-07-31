@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="data-grabber">
+        <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
+        <property name="java-output-path" value="/data-grabber/target/classes"/>
+        <property name="context-root" value="${finalName}"/>
+        <property name="component.inclusion.patterns" value="WEB-INF/*.properties,*.jsp,META-INF/**,WEB-INF/classes/**,WEB-INF/lib/*.jar,WEB-INF/lib/*gson*.jar,WEB-INF/lib/*json*.jar. WEB-INF/red5-web.properties,WEB-INF/*.xml"/>
+        <property name="component.exclusion.patterns" value="WEB-INF/lib/bcprov-jdk15on*.jar,WEB-INF/lib/antlr-*.jar,WEB-INF/lib/apache-mime4j-*.jar,WEB-INF/lib/aopalliance-*.jar,WEB-INF/lib/asm-*.jar,WEB-INF/lib/aspectjrt-*.jar,WEB-INF/lib/boilerpipe-*.jar,WEB-INF/lib/c3p0*.jar,WEB-INF/lib/commons-logging*.jar,WEB-INF/lib/commons-beanutils*.jar,WEB-INF/lib/commons-codec*.jar,WEB-INF/lib/commons-collections*.jar,WEB-INF/lib/commons-compress*.jar,WEB-INF/lib/commons-daemon*.jar,WEB-INF/lib/commons-lang*.jar,WEB-INF/lib/ehcache*.jar,WEB-INF/lib/isoparser*.jar,WEB-INF/lib/mina*.jar,WEB-INF/lib/red5-*.jar,WEB-INF/lib/quartz*.jar,WEB-INF/lib/hamcrest*.jar,WEB-INF/lib/httpc*.jar,WEB-INF/lib/javax.servlet-api*.jar,WEB-INF/lib/juniversalchardet*.jar,WEB-INF/lib/metadata-extractor*.jar,WEB-INF/lib/org.osgi*.jar,WEB-INF/lib/sysout*.jar,WEB-INF/lib/tagsoup*.jar,WEB-INF/lib/tika*.jar,WEB-INF/lib/tomcat-servlet-api*.jar,WEB-INF/lib/xerces*.jar,WEB-INF/lib/xml-apis*.jar,WEB-INF/lib/xmpcore*.jar,WEB-INF/lib/spring-aop*.jar,WEB-INF/lib/spring-beans*.jar,WEB-INF/lib/spring-context*.jar,WEB-INF/lib/spring-core*.jar,WEB-INF/lib/spring-expression-*.jar,WEB-INF/lib/*logback*.jar,WEB-INF/lib/spring-web-*.jar,WEB-INF/lib/spring-webmvc-*.jar"/>
+    </wb-module>
+</project-modules>
