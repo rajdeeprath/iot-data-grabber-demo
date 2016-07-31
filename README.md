@@ -14,7 +14,7 @@ Contains Red5 / Red5pro project for receieving sensor data from arduino client. 
 Contains a standard Arduino sketch for grabbing data from a DHT11 sensor and posting to Red5 pro api service using Ethernet shield and Ethernet library code.
 
 
-### ARDUINO CLIENT PROJECT: - Arduino/libraries/DHT
+### DHT11 CLIENT LIBRARY: - Arduino/libraries/DHT
 
 DHT11 library has been included (Library is developed by its own developer. Credits to original developer of the library).
 **Arduino/libraries/DHT**.The entire DHT folder much be copied to your Arduino/libraries folder. Arduino IDE must be restarted.
